@@ -1,5 +1,5 @@
 # cmpe 202  individual-project
-Name - sai sravani chalasani
+Name - sai sravani chalasani.
 SJSU id - 015911467
 
 # PROBLEM STATEMENT
@@ -7,7 +7,7 @@ We are going to create a Marketplace program that will contain inventory inform
 
 # DESIGN PATTERNS
 
-1.Singleton
+1.Singleton.
 2.Factory
 
 # Singleton : 
@@ -19,9 +19,9 @@ The Factory Method design pattern is a creational design pattern that acts as an
 # STEPS TO RUN THE APPLICATION
 # CLASS DIAGRAM
 # SCREENSHOTS OF TEST CASES
-   TEST CASE1
-   TEST CASE2
-   TEST CASE3
+   TEST CASE1.
+   TEST CASE2.
+   TEST CASE3.
 
 
 
